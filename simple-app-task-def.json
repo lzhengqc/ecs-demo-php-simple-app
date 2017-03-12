@@ -10,7 +10,7 @@
         {
             "environment": [],
             "name": "simple-app",
-            "image": "lzhengqc/amazon-ecs-sample",
+            "image": "stacktech/amazon-ecs-sample",
             "cpu": 10,
             "memory": 500,
             "portMappings": [
